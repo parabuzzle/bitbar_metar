@@ -5,6 +5,10 @@ Metar provides a simple Bitbar item to watch aviation weather for a specific air
 
 Metar uses the same NOAA METAR data used for aviationweather.gov and checks for updates every 5 minutes.
 
+![/metar-vfr.png](/metar-vfr.png)
+
+![/metar-ifr.png](/metar-ifr.png)
+
 # Requirements
 
   * Ruby >= 2.3.1

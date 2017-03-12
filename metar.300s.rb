@@ -5,7 +5,7 @@
 # <bitbar.author>Michael Heijmans</bitbar.author>
 # <bitbar.author.github>parabuzzle</bitbar.author.github>
 # <bitbar.desc>Simple Aviation Weather</bitbar.desc>
-# <bitbar.image>http://www.github.com/parabuzzle/bitbar_metar/metar.png</bitbar.image>
+# <bitbar.image>http://github.com/parabuzzle/bitbar_metar/raw/master/metar-ifr.png</bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
 # <bitbar.abouturl>http://www.github.com/parabuzzle/bitbar_metar</bitbar.abouturl>
 
