@@ -12,8 +12,8 @@ Metar uses the same NOAA METAR data used for aviationweather.gov and checks for 
 # Requirements
 
   * Ruby >= 2.3.1
-  * metar ruby gem
-  * inifile ruby gem
+  * [ruby gem] inifile
+  * [ruby gem] metar-parser (There's is a bug in the current version -- 1.3.1. This bug is fixed in my branch of the gem found here: https://github.com/parabuzzle/metar-parser/tree/fix_station_list_location)
 
 # Setup
 
