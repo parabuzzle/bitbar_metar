@@ -4,7 +4,7 @@
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Michael Heijmans</bitbar.author>
 # <bitbar.author.github>parabuzzle</bitbar.author.github>
-# <bitbar.desc>Simple Aviation Weather</bitbar.desc>
+# <bitbar.desc>Displays the current METAR information for the airport of your choice</bitbar.desc>
 # <bitbar.image>http://github.com/parabuzzle/bitbar_metar/raw/master/metar-ifr.png</bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
 # <bitbar.abouturl>http://www.github.com/parabuzzle/bitbar_metar</bitbar.abouturl>
