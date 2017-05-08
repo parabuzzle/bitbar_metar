@@ -109,7 +109,7 @@ def wind_string
   wind = PARSED_METAR.wind
   return unless wind
   if wind.direction == :variable_direction
-    direction = "Wind: Variable Direction @ #{parsed.wind.speed.value.round * 2} Knots"
+    direction = "Wind: Variable Direction @ #{PARSED_METAR.wind.speed.value.round * 2} Knots"
   else
     direction = "Wind #{wind.direction.value.round}° @ #{wind.speed.value.round * 2} Knots"
   end
